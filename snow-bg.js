@@ -10,7 +10,7 @@ window.onload = function () {
     canvas.width = W;
 
     // generate Snowflakes and apply attributes
-    let mf = 100;
+    let mf = 100; // maximum flakes on window object
     let flakes = [];
 
     // loop throught empty falkes array and apply attributes to snowflake

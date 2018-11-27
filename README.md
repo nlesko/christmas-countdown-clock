@@ -1,7 +1,13 @@
 # christmas-countdown-clock
 ---
 
-git 
+In the mood for holidays decided to put together this simple Christmas countdown clock.
+
+It contains countdown timer that is counting how much time is left till <br>
+**December 25, 2018, 00:00:01** in the night. (will be updated for 2019)
+
+Besides timer added simple snow-like background using canvas. <br>
+Also what kind of Christmas it would be without some Christmas lights? :)
 
 
 ## Project Conclusion

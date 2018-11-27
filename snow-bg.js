@@ -1,4 +1,10 @@
 window.onload = function () {
+
+    // Loading the clock on top of background
+    let deadline = new Date('December 25, 2018 00:00:010');
+    startTimer('clock', deadline);
+
+
     // Get Canvas and contex, store them in variables
     let canvas = document.getElementById('sky');
     let ctx = canvas.getContext('2d');
